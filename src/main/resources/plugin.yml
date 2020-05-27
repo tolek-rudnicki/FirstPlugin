@@ -1,0 +1,3 @@
+name: FirstPlugin
+version: 1.0
+main: minecraft.plugin.spigot.PluginStarter
